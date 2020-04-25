@@ -1,0 +1,9 @@
+C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\Dionazani.WebApplication.Dto\bin\Debug\netcoreapp3.1\Dionazani.WebApplication.Dto.deps.json
+C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\Dionazani.WebApplication.Dto\bin\Debug\netcoreapp3.1\Dionazani.WebApplication.Dto.dll
+C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\Dionazani.WebApplication.Dto\bin\Debug\netcoreapp3.1\Dionazani.WebApplication.Dto.pdb
+C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\Dionazani.WebApplication.Dto\obj\Debug\netcoreapp3.1\Dionazani.WebApplication.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\Dionazani.WebApplication.Dto\obj\Debug\netcoreapp3.1\Dionazani.WebApplication.Dto.AssemblyInfoInputs.cache
+C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\Dionazani.WebApplication.Dto\obj\Debug\netcoreapp3.1\Dionazani.WebApplication.Dto.AssemblyInfo.cs
+C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\Dionazani.WebApplication.Dto\obj\Debug\netcoreapp3.1\Dionazani.WebApplication.Dto.dll
+C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\Dionazani.WebApplication.Dto\obj\Debug\netcoreapp3.1\Dionazani.WebApplication.Dto.pdb
+C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\Dionazani.WebApplication.Dto\obj\Debug\netcoreapp3.1\Dionazani.WebApplication.Dto.csprojAssemblyReference.cache
