@@ -10,7 +10,7 @@ namespace DionAzani.WebApplication.Service
         Response GetAll();
         Response GetById(int id);
         ToDoDto GetIncomingByDate(DateTime incomingDate);
-        int Create(ToDoDto toDoDto);
+        Response Create(ToDoDto toDoDto);
         int Update(ToDoDto toDoDto);
         int PercentComplete(double percent);
         int Delete(int id);

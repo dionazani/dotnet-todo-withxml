@@ -28,5 +28,13 @@ namespace Dionazani.WebApplication.Controller.Controllers
             ToDoService toDoService = new ToDoService();
             return toDoService.GetById(id);
         }
+
+        // Create New
+        [HttpPost]
+        public ActionResult<Response> CreateNew([FromBody] ToDoDto toDoDto)
+        {
+            ToDoService toDoService = new ToDoService();
+            return toDoService.Create(toDoDto);
+        }
     }
 }

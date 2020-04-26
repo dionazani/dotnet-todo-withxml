@@ -10,9 +10,12 @@ namespace DionAzani.WebApplication.Service
 {
     public class ToDoService : IToDoService
     {
-        public int Create(ToDoDto toDoDto)
+        public Response Create(ToDoDto toDoDto)
         {
-            int result = 0;
+            Response response = new Response();
+            response.ResponseCode = "001";
+            response.ResponseMessage = "";
+            response.Data = null;
 
             try
             {
@@ -29,14 +32,20 @@ namespace DionAzani.WebApplication.Service
                 xmldoc.Root.Add(emp);
                 xmldoc.Save("xml/file01.xml");
 
-                result = 1;
+                response = new Response();
+                response.ResponseCode = "000";
+                response.ResponseMessage = "Success";
+                response.Data = null;
             }
             catch(Exception ex)
             {
-                // do nothing
+                response = new Response();
+                response.ResponseCode = "001";
+                response.ResponseMessage = "";
+                response.Data = null;
             }
 
-            return result;
+            return response;
         }
 
         public int Delete(int id)
