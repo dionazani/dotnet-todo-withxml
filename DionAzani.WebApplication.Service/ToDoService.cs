@@ -46,31 +46,46 @@ namespace DionAzani.WebApplication.Service
 
         public Response GetAll()
         {
-            List<ToDoDto> dtoList = new List<ToDoDto>();
-            DataSet ds = new DataSet();
-            ds.ReadXml("xml/file01.xml");
-
-            DataView dvPrograms;
-            dvPrograms = ds.Tables[0].DefaultView;
-            dvPrograms.Sort = "Id";
-            foreach (DataRowView dr in dvPrograms)
-            {
-                ToDoDto dto = new ToDoDto();
-                dto.Id = Convert.ToInt32(dr[0]);
-                dto.Title = Convert.ToString(dr[1]);
-                dto.Description = Convert.ToString(dr[2]);
-                dto.DateAt = Convert.ToDateTime(dr[3]);
-                dto.ExpireAt = Convert.ToDateTime(dr[4]);
-                dto.Complete = Convert.ToInt32(dr[5]);
-                dto.CompleteAt = Convert.ToDateTime(dr[6]);
-
-                dtoList.Add(dto);
-            }
-
             Response response = new Response();
-            response.ResponseCode = "000";
-            response.ResponseMessage = "Success";
-            response.Data = dtoList;
+            response.ResponseCode = "001";
+            response.ResponseMessage = "";
+            response.Data = null;
+
+            try
+            {
+                List<ToDoDto> dtoList = new List<ToDoDto>();
+                DataSet ds = new DataSet();
+                ds.ReadXml("xml/file01.xml");
+
+                DataView dvPrograms;
+                dvPrograms = ds.Tables[0].DefaultView;
+                dvPrograms.Sort = "Id";
+                foreach (DataRowView dr in dvPrograms)
+                {
+                    ToDoDto dto = new ToDoDto();
+                    dto.Id = Convert.ToInt32(dr[0]);
+                    dto.Title = Convert.ToString(dr[1]);
+                    dto.Description = Convert.ToString(dr[2]);
+                    dto.DateAt = Convert.ToDateTime(dr[3]);
+                    dto.ExpireAt = Convert.ToDateTime(dr[4]);
+                    dto.Complete = Convert.ToInt32(dr[5]);
+                    dto.CompleteAt = Convert.ToDateTime(dr[6]);
+
+                    dtoList.Add(dto);
+                }
+
+                response = new Response();
+                response.ResponseCode = "000";
+                response.ResponseMessage = "Success";
+                response.Data = dtoList;
+            }
+            catch(Exception ex)
+            {
+                response = new Response();
+                response.ResponseCode = "002";
+                response.ResponseMessage = ex.Message;
+                response.Data = null;
+            }
 
             return response;
         }
