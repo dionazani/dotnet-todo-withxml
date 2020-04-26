@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oLBJYXf1dkRJDOG0GXJKBHJG6XTDNRViy7yLKomzNCHlPbeLy7JzYerBPQuE77Wnp6Mc9pZYftRmxZwMbZjQRw==",
+  "dgSpecHash": "pdUIpIWevWKGZzKisDoaiVmZDb5DPs7vVCyzb3Z3rq/54/Ypmt4H1qIkODEYxz20pG8hv23JzKFZ0LtPJJTZ1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\DionAzani.WebApplication.Service\\DionAzani.WebApplication.Service.csproj",
+  "projectFilePath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\DionAzani.WebApplication.Service\\DionAzani.WebApplication.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

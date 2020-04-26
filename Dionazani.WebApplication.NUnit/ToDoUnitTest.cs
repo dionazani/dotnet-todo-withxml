@@ -16,9 +16,9 @@ namespace Dionazani.WebApplication.NUnit
         public void GetAllTest()
         {
             ToDoService toDoService = new ToDoService();
-            List<ToDoDto> dtoList = toDoService.getAll();
+            Response response = toDoService.GetAll();
 
-            Assert.IsNotNull(dtoList);
+            Assert.IsNotNull(response.Data);
         }
 
         [Test]
@@ -26,9 +26,9 @@ namespace Dionazani.WebApplication.NUnit
         {
             int id = 1;
             ToDoService toDoService = new ToDoService();
-            ToDoDto todoDto = toDoService.getById(id);
+            Response response = toDoService.GetById(id);
 
-            Assert.IsNotNull(todoDto);
+            Assert.IsNotNull(response.Data);
         }
     }
 }

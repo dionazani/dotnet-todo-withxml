@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.Dto\\Dionazani.WebApplication.Dto.csproj": {}
+    "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.Dto\\Dionazani.WebApplication.Dto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.Dto\\Dionazani.WebApplication.Dto.csproj": {
+    "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.Dto\\Dionazani.WebApplication.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.Dto\\Dionazani.WebApplication.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.Dto\\Dionazani.WebApplication.Dto.csproj",
         "projectName": "Dionazani.WebApplication.Dto",
-        "projectPath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.Dto\\Dionazani.WebApplication.Dto.csproj",
+        "projectPath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.Dto\\Dionazani.WebApplication.Dto.csproj",
         "packagesPath": "C:\\Users\\Dion Azani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.Dto\\obj\\",
+        "outputPath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

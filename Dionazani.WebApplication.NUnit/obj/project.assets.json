@@ -5100,11 +5100,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.NUnit\\Dionazani.WebApplication.NUnit.csproj",
+      "projectUniqueName": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.NUnit\\Dionazani.WebApplication.NUnit.csproj",
       "projectName": "Dionazani.WebApplication.NUnit",
-      "projectPath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.NUnit\\Dionazani.WebApplication.NUnit.csproj",
+      "projectPath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.NUnit\\Dionazani.WebApplication.NUnit.csproj",
       "packagesPath": "C:\\Users\\Dion Azani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.NUnit\\obj\\",
+      "outputPath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\Dionazani.WebApplication.NUnit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5123,8 +5123,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\DionAzani.WebApplication.Service\\DionAzani.WebApplication.Service.csproj": {
-              "projectPath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\todo-withxml-dionazani\\visual-studio\\ToDoWebApplication\\DionAzani.WebApplication.Service\\DionAzani.WebApplication.Service.csproj"
+            "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\DionAzani.WebApplication.Service\\DionAzani.WebApplication.Service.csproj": {
+              "projectPath": "C:\\Users\\Dion Azani\\Documents\\DNA Learning\\dotnet-todo-withxml\\visual-studio\\ToDoWebApplication\\DionAzani.WebApplication.Service\\DionAzani.WebApplication.Service.csproj"
             }
           }
         }

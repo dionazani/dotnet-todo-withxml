@@ -10,3 +10,15 @@ C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\
 C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\obj\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.csproj.CopyComplete
 C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\obj\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.dll
 C:\Users\Dion Azani\Documents\DNA Learning\todo-withxml-dionazani\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\obj\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.pdb
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\bin\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.deps.json
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\bin\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.dll
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\bin\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.pdb
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\bin\Debug\netcoreapp2.2\Dionazani.WebApplication.Dto.dll
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\bin\Debug\netcoreapp2.2\Dionazani.WebApplication.Dto.pdb
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\obj\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.csprojAssemblyReference.cache
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\obj\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\obj\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.AssemblyInfoInputs.cache
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\obj\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.AssemblyInfo.cs
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\obj\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.csproj.CopyComplete
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\obj\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.dll
+C:\Users\Dion Azani\Documents\DNA Learning\dotnet-todo-withxml\visual-studio\ToDoWebApplication\DionAzani.WebApplication.Service\obj\Debug\netcoreapp2.2\DionAzani.WebApplication.Service.pdb

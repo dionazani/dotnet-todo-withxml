@@ -15,20 +15,18 @@ namespace Dionazani.WebApplication.Controller.Controllers
     {
         // GET api/todo/
         [HttpGet]
-        public ActionResult<IEnumerable<ToDoDto>> GetAllToDo()
+        public ActionResult<Response> GetAllToDo()
         {
             ToDoService toDoService = new ToDoService();
-            return toDoService.getAll();
+            return toDoService.GetAll();
         }
 
         // GET api/todo/5
         [HttpGet("{id}")]
-        public ActionResult<ToDoDto> Get(int id)
+        public ActionResult<Response> Get(int id)
         {
             ToDoService toDoService = new ToDoService();
-            ToDoDto todoDto = toDoService.getById(id);
-
-            return todoDto;
+            return toDoService.GetById(id);
         }
     }
 }
